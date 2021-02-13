@@ -1,7 +1,7 @@
 <?php
   class DB{
     private $host = "localhost";
-    private $dbname = "sourcecodester_interviewdb";
+    private $dbname = "interviewdb";
     private $dbuser = "root";
     private $dbpass = "";
     private $conn;
